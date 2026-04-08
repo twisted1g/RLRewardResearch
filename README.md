@@ -64,9 +64,15 @@
 
 
 <img width="800" height="393" alt="image" src="https://github.com/user-attachments/assets/f98ddd13-9fe1-4533-baeb-cf4cbe7773e5" />
+
 Рисунок 1. Динамика стоимости портфеля на тестовой выборке (DQN)
 
+
+
+
+
 <img width="984" height="484" alt="image" src="https://github.com/user-attachments/assets/6a4f8212-9cf8-43c6-af77-6003ce2fbb5a" />
+
 Рисунок 2. Динамика стоимости портфеля на тестовой выборке (A2C)
 
 
